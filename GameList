@@ -1,0 +1,5 @@
+getgenv().Games = {
+    [3101667897] = "https://raw.githubusercontent.com/ahmadsgamer2/Zekrom-Hub-X/main/Legends-Of-Speed.lua", -- City Legends Of Speed
+    [3232996272] = "https://raw.githubusercontent.com/ahmadsgamer2/Zekrom-Hub-X/main/Legends-Of-Speed.lua", -- Space Legends Of Speed
+    [3276265788] = "https://raw.githubusercontent.com/ahmadsgamer2/Zekrom-Hub-X/main/Legends-Of-Speed.lua", -- Desert Legends Of Speed
+ }
