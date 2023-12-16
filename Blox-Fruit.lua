@@ -1,5 +1,5 @@
 
-local repo = 'https://raw.githubusercontent.com/ahmadsgamer2/L_UI/tree/main/'
+local repo = 'https://raw.githubusercontent.com/ahmadsgamer2/L_UI/main/'
  
  local Library = loadstring(game:HttpGet(repo .. 'UI_Lib_L'))()
  local SaveManager = loadstring(game:HttpGet(repo .. 'SaveManager'))()
