@@ -7,4 +7,6 @@ getgenv().Games = {
     [2753915549] = "https://raw.githubusercontent.com/ahmadsgamer2/Zekrom-Hub-X/main/Blox-Fruit.lua", -- Blox Fruit W1
     [4442272183] = "https://raw.githubusercontent.com/ahmadsgamer2/Zekrom-Hub-X/main/Blox-Fruit.lua", -- Blox Fruit W2
     [7449423635] = "https://raw.githubusercontent.com/ahmadsgamer2/Zekrom-Hub-X/main/Blox-Fruit.lua", -- Blox Fruit W3
+    ---Pet Simulator 99
+    [8737899170] = "https://raw.githubusercontent.com/ahmadsgamer2/Zekrom-Hub-X/main/Pet-Simulator-99.lua", -- Pet Simulator 99
  }
