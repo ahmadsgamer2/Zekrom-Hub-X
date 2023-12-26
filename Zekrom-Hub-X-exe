@@ -1,8 +1,8 @@
-if game.PlaceId == 3101667897 or 3232996272 or 3276265788 then -- Legends Of Speed
+if game.PlaceId == 3101667897 then -- Legends Of Speed
     loadstring(game:HttpGet("https://raw.githubusercontent.com/ahmadsgamer2/Zekrom-Hub-X/main/Legends-Of-Speed.lua", true))()
 end
 
-if game.PlaceId == 2753915549 or 4442272183 or 7449423635 then -- Blox fruit
+if game.PlaceId == 2753915549 and 4442272183 and 7449423635 then -- Blox fruit
       loadstring(game:HttpGet("https://raw.githubusercontent.com/ahmadsgamer2/Zekrom-Hub-X/main/Blox-Fruit.lua", true))()
 end
 
