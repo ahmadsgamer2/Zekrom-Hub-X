@@ -4,4 +4,6 @@ elseif game.PlaceId == 2753915549 or 4442272183 or 7449423635 then -- Blox fruit
       loadstring(game:HttpGet("https://raw.githubusercontent.com/ahmadsgamer2/Zekrom-Hub-X/main/Blox-Fruit.lua", true))()
 elseif game.PlaceId == 8737899170 then -- PS99
     loadstring(game:HttpGet("https://raw.githubusercontent.com/ahmadsgamer2/Zekrom-Hub-X/main/Pet-Simulator-99.lua", true))()
+elseif game.PlaceId == 3623096087 then -- Muscle Legends
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ahmadsgamer2/Zekrom-Hub-X/main/Muscle-Legends.lua", true))()
 end
