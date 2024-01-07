@@ -9,4 +9,6 @@ getgnv().Games = {
     [7449423635] = "https://raw.githubusercontent.com/ahmadsgamer2/Zekrom-Hub-X/main/Blox-Fruit.lua", -- Blox Fruit W3
     ---Pet Simulator 99
     [8737899170] = "https://raw.githubusercontent.com/ahmadsgamer2/Zekrom-Hub-X/main/Pet-Simulator-99.lua", -- Pet Simulator 99
+    --Muscle Legends 
+    [8737899170] = "https://raw.githubusercontent.com/ahmadsgamer2/Zekrom-Hub-X/main/Muscle-Legends.lua", -- Muscle Legends
  }
