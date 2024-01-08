@@ -1,18 +1,9 @@
-local GetGame = loadstring(game:HttpGet("https://raw.githubusercontent.com/ahmadsgamer2/Zekrom-Hub-X/main/GameList"))()
-function CheckingGame1()
-    getgenv().Get =
-        setmetatable(
-        {},
-        {
-            __index = function(GetGame, B)
-                return game:GetService(B)
-            end
-        }
-    )
-    for i, v in pairs(Games) do
-        if i == game.PlaceId then
-            loadstring(game:HttpGet(v))()
-        end
-    end
+if game.PlaceId == 3101667897 then -- Legends Of Speed
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ahmadsgamer2/Zekrom-Hub-X/main/Legends-Of-Speed.lua", true))()
+elseif game.PlaceId == 2753915549 or 4442272183 or 7449423635 then -- Blox fruit
+      loadstring(game:HttpGet("https://raw.githubusercontent.com/ahmadsgamer2/Zekrom-Hub-X/main/Blox-Fruit.lua", true))()
+elseif game.PlaceId == 8737899170 then -- PS99
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ahmadsgamer2/Zekrom-Hub-X/main/Pet-Simulator-99.lua", true))()
+elseif game.PlaceId == 3623096087 then -- Muscle Legends
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ahmadsgamer2/Zekrom-Hub-X/main/Muscle-Legends.lua", true))()
 end
-CheckingGame1()
