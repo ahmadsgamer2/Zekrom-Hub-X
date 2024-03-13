@@ -1,1 +1,1 @@
-_G.Discord = "https://discord.gg/tmrx"
+_G.Discord = "https://discord.gg/tusaQzURPQ"
